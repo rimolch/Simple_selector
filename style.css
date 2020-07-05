@@ -1,0 +1,30 @@
+h1{
+        font-family:courier;
+        color:indigo;
+        text-align:center;
+        opacity:1000;
+        font-size:100px;
+        }
+    h2{
+        color:blue;
+        text-align:center;
+      }
+ p.solid{
+        font-size:20px;
+        font-color:gray;
+        }
+    #mainpoint{
+        font-size:14px;
+        font-weight:bold;
+        background-color:red;
+        opacity:1;
+        }
+      p,h{
+        color:blue;
+        text-align:center;
+        font-family:times new roman,serif;
+        } 
+ p:first-letter{
+        font-size:300%;
+        color:blue;
+        }
